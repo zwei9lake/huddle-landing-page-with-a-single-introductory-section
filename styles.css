@@ -89,6 +89,11 @@ footer img {
     flex-direction: column;
   }
 
+  .logo img {
+    width: 50%;
+    height: auto;
+  }
+
   .illustration {
     width: 100%;
   }
