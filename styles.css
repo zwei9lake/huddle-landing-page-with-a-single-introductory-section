@@ -45,7 +45,7 @@ h1 {
 }
 
 .caption p {
-  color: white;
+  color: lightgray;
   line-height: 25px;
   font-weight: 400;
   font-size: 18px;
@@ -101,6 +101,14 @@ footer img {
 
   .register {
     margin: auto;
+  }
+
+  h1 {
+    font-size: 1.5rem;
+  }
+
+  .caption p {
+    font-size: 14px;
   }
 
   footer {
