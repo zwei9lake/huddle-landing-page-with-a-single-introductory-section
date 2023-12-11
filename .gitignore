@@ -14,11 +14,6 @@
 # Avoid your project being littered with annoying .DS_Store files!
 .DS_Store
 style-guide.md
-images/bg-desktop.svg
-images/bg-mobile.svg
-images/facebook-f.svg
-images/favicon-32x32.png
-images/illustration-mockups.svg
-images/instagram.svg
-images/logo.svg
-images/twitter.svg
+images/mobile-screenshot.JPG
+images/screenshot.JPG
+
